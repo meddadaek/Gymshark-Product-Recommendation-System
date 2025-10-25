@@ -1,0 +1,15 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+
+# Notebook Environment
+jupyter
+
+# Optional (for better visuals / data handling)
+tqdm
